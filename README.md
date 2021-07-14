@@ -14,16 +14,16 @@ A completely custom & original skill-emulation module designed for competitive r
 	- Dark Harvest into Sundering Strike
 	- Double Shear into Grimstrike (when not Shadow Reaping)
 	- Death Spiral
-* Get the polish and fluidity of over a year's worth of emulation & module development.
+* Get the polish and fluidity of over a year's worth of emulation & core development.
 * Binding Scythes prevention when boss isn't targetable.
 * Trust in a developer who has a track record of quality and dedication: who works continually to improve their modules and provide the best experience.
 * Instant cooldown system. Gameplay is substantially more responsive and intuitive at all ping types, even at low ping.
-* clientSide effect icons such as Death Spiral.
-* Anti-bodyblock alternative that works universally.
-* Zero desync - completely accurate location system.
+* clientSide effect icons such as Death Spiral's window.
 * Integrated fps tax & client latency skill speed compensation.
+* Zero desync - completely accurate location system.
 * In-built custom boss ping remover.
-* dynamicStabilityMode gives complete control over the stability of the module. The aim with this mode is to allow the option of a stabilized experience for users with unstable net.
+* Anti-bodyblock alternative that works universally.
+* Optional dynamicStabilityMode gives complete control over the stability of the module for players with unstable networks.
 * External ping method for more accurate ping values.
 * Prevention of desync between boss model and boss’s position.
 * Full control over all features and many additional configuration options.
